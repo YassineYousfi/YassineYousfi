@@ -12,4 +12,4 @@
 - 🎙 I'm a co-instructor at the department of ECE at Binghamton University (NY)
   - ECE 566 Detection Theory
   - ECE 580G Deep Learning for ECE
-- 🏡 Homepage: [yassineyousfi.github.io](yassineyousfi.github.io)
+- 🏡 Homepage: [yassineyousfi.github.io](https://yassineyousfi.github.io)
