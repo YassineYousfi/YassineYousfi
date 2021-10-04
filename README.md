@@ -10,6 +10,7 @@
 - 🎓 I'm a PhD candidate at Binghamton University (NY)
 - 📷 I'm currently working on Media Forensics applications using Deep Learning
 - 🎙 I'm a co-instructor at the department of ECE at Binghamton University (NY)
+  - ECE 562 Fundamentals Of Steganography
   - ECE 566 Detection Theory
   - ECE 580G Deep Learning for ECE
 - 🏡 Homepage: [yassineyousfi.github.io](https://yassineyousfi.github.io)
