@@ -7,9 +7,10 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
+- 🚗 I'm a research engineer at comma.ai
 - 🎓 I'm a PhD candidate at Binghamton University (NY)
-- 📷 I'm currently working on Media Forensics applications using Deep Learning
-- 🎙 I'm a co-instructor at the department of ECE at Binghamton University (NY)
+- 📷 My PhD focuses on Media Forensics applications using Deep Learning
+- 🎙 I served as co-instructor at the department of ECE at Binghamton University (NY) (2018-2020)
   - ECE 562 Fundamentals Of Steganography
   - ECE 566 Detection Theory
   - ECE 580G Deep Learning for ECE
